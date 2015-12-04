@@ -1,0 +1,27 @@
+body{
+	background-color: white;
+}
+
+#nav-bar li{
+	list-style: none;
+	font: 20px bold Arial, sans-serif;
+	color: white;
+	display: inline;
+	padding: 60px;
+	width: 90%;
+	margin: 0 auto;
+}
+#nav-bar{
+	background-color: #ff0000;
+	height: 40px;
+	padding-top: 10px;
+}
+h1{
+	font-family: Arial;
+	padding-left: 60px;
+	padding-top: 40px;
+}
+p{
+	padding-left: 60px;
+	width: 90%;
+}
