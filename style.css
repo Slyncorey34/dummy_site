@@ -1,3 +1,13 @@
 body{
 	background-color: white;
 }
+#nav-bar li{
+	list-style: none;
+	font: 20px bold Arial, sans-serif;
+	color: blue;
+	display: inline;
+	padding: 100px;
+	width: 90%;
+	margin: 0 auto;
+	height: 30px;
+}
