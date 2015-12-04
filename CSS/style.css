@@ -1,4 +1,31 @@
-body{
+#wrapper {
+	width:60%;
+	margin: 0 auto;
+
+}
+
+
+#side-bar {
+	
+	float: left;
+	width: 33%;
+}
+
+#main-content {
+	display: inline-block;
+	
+	width: 66%;
+
+}
+
+
+img {
+	display: block;
+	float: left;
+	width: 350px;
+	height: 350px;
+	margin: 0px 5px 5px 0px;
+}body{
 	background-color: white;
 }
 
